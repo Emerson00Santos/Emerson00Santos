@@ -2,9 +2,8 @@
 
 - 🔭 I’m currently working as a fullstack developer with focus on Js - Front-end and Sql server - DB
 
-![me](https://github.com/Emerson00Santos/Emerson00Santos/blob/main/me.jpg?raw=true )
 <kbd>
-<img alt="me" src="https://github.com/Emerson00Santos/Emerson00Santos/blob/main/me.jpg?raw=true" height="auto" width="200px">
+<img alt="me" src="https://github.com/Emerson00Santos/Emerson00Santos/blob/main/me.jpg?raw=true" height="auto" width="200px" align="center">
 </kbd>
 
 <!--
