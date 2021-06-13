@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <img alt="me" src="https://github.com/Emerson00Santos/Emerson00Santos/blob/main/me2.jpg?raw=true" height="auto" width="200px" align="center" style="border-radius:50%">
+  <img alt="me" src="https://github.com/Emerson00Santos/Emerson00Santos/blob/main/me2.jpg?raw=true" height="auto" width="200px" align="center" style="border-radius: 50%;">
 </p>
 <!--
 **Emerson00Santos/Emerson00Santos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
