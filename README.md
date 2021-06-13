@@ -1,6 +1,9 @@
 ### Hello! I'm Emerson Web dev with focus on Js and Front-end 💻🚀
 
 - 🔭 I’m currently working as a fullstack developer with focus on Js - Front-end and Sql server - DB
+
+![me](https://github.com/Emerson00Santos/Emerson00Santos/blob/main/me.jpg?raw=true)
+
 <!--
 **Emerson00Santos/Emerson00Santos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
