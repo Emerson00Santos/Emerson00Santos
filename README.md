@@ -1,11 +1,19 @@
-### Hello! I'm Emerson Web dev with focus on Js and Front-end 💻🚀
+<h1 align='center'>### Hello! I'm Emerson Web dev with focus on Js and Front-end 💻🚀</h1>
+
 
 - 🔭 I’m currently working as a fullstack developer with focus on Js - Front-end and Sql server - DB
 
 
-<p align="center">
-  <img alt="me" src="https://github.com/Emerson00Santos/Emerson00Santos/blob/main/me2.jpg?raw=true" height="auto" width="200px" align="center" style="border-radius: 50%;">
+<div align="center">
+<img width="221px" height = "221px" src="https://github.com/Emerson00Santos/Emerson00Santos/blob/main/me2.jpg" alt="cover" />
+</div>
+
+<p align='center'>
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=annelesinhovski.annelesinhovski)
 </p>
+
+
 <!--
 **Emerson00Santos/Emerson00Santos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
