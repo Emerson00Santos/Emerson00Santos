@@ -4,7 +4,7 @@
 
 ![me](https://github.com/Emerson00Santos/Emerson00Santos/blob/main/me.jpg?raw=true )
 
-<img alt="me" src="github.com/Emerson00Santos/Emerson00Santos/blob/main/me.jpg?raw=true" width="30%" align="center" border-radius= 50%>
+<img alt="me" src="github.com/Emerson00Santos/Emerson00Santos/blob/main/me.jpg?raw=true" width="30%" align="center" style="border-radius:50%">
 
 
 <!--
