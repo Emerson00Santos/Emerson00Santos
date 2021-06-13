@@ -17,7 +17,7 @@ Thank You for taking the time to view my GitHub Profile :)
 
 <h2 align="center">Where You can find me:</h2>
 <p align="center">
-<a href="https://www.linkedin.com/in/emerson-dos-santos1999/" target="blank"><img align="center" src="https://https://imgur.com/a/Hxk775z" alt="emerson" height="30" width="40" style="color=white"/></a>
+<a href="https://www.linkedin.com/in/emerson-dos-santos1999/" target="blank"><img align="center" src="https://imgur.com/a/Hxk775z" alt="emerson" height="30" width="40" style="color=white"/></a>
 </p>
 
 <h2 align="center"> My GitHub Stats </h2>
