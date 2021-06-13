@@ -2,10 +2,10 @@
 
 - 🔭 I’m currently working as a fullstack developer with focus on Js - Front-end and Sql server - DB
 
-<kbd>
-<img alt="me" src="https://github.com/Emerson00Santos/Emerson00Santos/blob/main/me.jpg?raw=true" height="auto" width="200px" align="center">
-</kbd>
 
+<p align="center">
+  <img alt="me" src="https://github.com/Emerson00Santos/Emerson00Santos/blob/main/me.jpg?raw=true" height="auto" width="200px" align="center">
+</p>
 <!--
 **Emerson00Santos/Emerson00Santos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
