@@ -13,6 +13,12 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Emerson00Santos.Emerson00Santos)
 </p>
 
+Thank You for taking the time to view my GitHub Profile :) 
+
+<h2 align="center">Where You can find me:</h2>
+<p align="center">
+<a href="https://www.linkedin.com/in/emerson-dos-santos1999/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="emerson" height="30" width="40" /></a>
+</p>
 
 <h2 align="center"> My GitHub Stats </h2>
 <a href="https://github.com/anuraghazra/github-readme-stats">
