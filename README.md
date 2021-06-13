@@ -1,4 +1,4 @@
-<h1 align='center'>Hello! I'm Emerson Web dev with focus on Js and Front-end 💻🚀</h1>
+<h1 align='center'>Hello! I'm Emerson, Web developer with focus on Js and Front-end 💻🚀</h1>
 
 
 - 🔭 I’m currently working as a fullstack developer with focus on Js - Front-end and Sql server - DB
