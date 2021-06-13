@@ -5,7 +5,7 @@
 
 
 <div align="center">
-<img width="221px" height = "221px" src="https://github.com/Emerson00Santos/Emerson00Santos/blob/main/me2.jpg" alt="cover" />
+<img width="221px" height = "221px" src="https://github.com/Emerson00Santos/Emerson00Santos/blob/main/me2.png" alt="cover" />
 </div>
 
 <p align='center'>
